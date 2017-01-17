@@ -29,7 +29,7 @@
     Add service providers
 
     ```php
-        Unisharp\Laravelfilemanager\LaravelFilemanagerServiceProvider::class,
+        JayPanuwat\Laravelfilemanager\LaravelFilemanagerServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
     ```
 
