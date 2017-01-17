@@ -1,9 +1,9 @@
 ## Documents
 
-  1. [Installation](https://github.com/UniSharp/laravel-filemanager/blob/master/doc/installation.md)
-  1. [Intergration](https://github.com/UniSharp/laravel-filemanager/blob/master/doc/integration.md)
-  1. [Config](https://github.com/UniSharp/laravel-filemanager/blob/master/doc/config.md)
-  1. [Customization](https://github.com/UniSharp/laravel-filemanager/blob/master/doc/customization.md)
+  1. [Installation](https://github.com/jaypanuwat/laravel-filemanager-customize/blob/master/doc/installation.md)
+  1. [Intergration](https://github.com/jaypanuwat/laravel-filemanager-customize/blob/master/doc/integration.md)
+  1. [Config](https://github.com/jaypanuwat/laravel-filemanager-customize/blob/master/doc/config.md)
+  1. [Customization](https://github.com/jaypanuwat/laravel-filemanager-customize/blob/master/doc/customization.md)
 
 ## Customization
 
