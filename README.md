@@ -21,7 +21,7 @@ PR is welcome!
   1. [Customization](https://github.com/jaypanuwat/laravel-filemanager-customize/blob/master/doc/customization.md)
 
 ## Upgrade guide
-  * `composer update unisharp/laravel-filemanager`
+  * `composer update jaypanuwat/laravel-filemanager-customize`
   * `php artisan vendor:publish --tag=lfm_view --force`
   * `php artisan vendor:publish --tag=lfm_config --force` (IMPORTANT: please backup your own `config/lfm.php` first)
 
